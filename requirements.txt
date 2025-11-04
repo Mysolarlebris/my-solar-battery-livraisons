@@ -1,6 +1,5 @@
 streamlit
-pytesseract
-openpyxl
+pandas
+pyzxing
 opencv-python-headless
-pyzbar
 Pillow
